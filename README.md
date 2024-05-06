@@ -84,12 +84,10 @@ while True:
 
 ## Output:
 ## Client:
-![image](https://github.com/eswanth2005/SocketStudy/assets/164656722/2e40b879-5127-4486-9397-975e789ebd99)
-
+![Screenshot (31)](https://github.com/eswanth2005/SocketStudy/assets/164656722/613e4044-d894-4de5-99de-4bd11366fa38)
 
 ## Server:
-![image](https://github.com/eswanth2005/SocketStudy/assets/164656722/d3e545f6-2fbe-42b3-84c6-678b883d1a64)
-
+![Screenshot (32)](https://github.com/eswanth2005/SocketStudy/assets/164656722/4714f0f3-443d-479b-8122-c71e5ada2c7c)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
