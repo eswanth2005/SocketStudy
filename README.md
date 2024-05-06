@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+### NAME: K ESWANTH KUMAR
+### REG NO: 212223040046
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
